@@ -10,8 +10,8 @@
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  
 '''
 config = {
-    '__MadeBy__': 'Cubic',
-    '__Find Me At__': 'https://t.me/Cubiqqqqq'
+    '__MadeBy__': 'Nitric',
+    '__Find Me At__': 'https://t.me/NitricX'
 }
 
 class Fincan_kahvem_hatrina_saydim_Bir_yudumluk_askim_deli_sarhos_Komplo_ordularinin_gardiyanlari_Neyim_var_ki_Rapten_gayri:
