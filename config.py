@@ -1,11 +1,11 @@
-BOT_TOKEN = 'Your Bot Token'
+BOT_TOKEN = '6025421217:AAH36ii4edHdAhU5quVGfPLXWx2jUveFxqo'
 
 TIME_INTERVAL = 0.5
 
-CHAT_ID = -6969696969
+CHAT_ID = -1001913178778
 
 MESSAGE_TEXT_TEMPLATE = """
-[🌩] Cubic Scrapper 
+[🌩] Scraper: @XdScrapper 🫶🏻 
 ━━━━━━━━━━━━━━━━━━━━━━━
 Card: <code>{cc}</code>
 Card Status: {status}
